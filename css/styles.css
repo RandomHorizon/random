@@ -1,0 +1,150 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Caveat Brush', sans-serif;
+    color: #464D5C;
+}
+
+
+
+.hello {
+    font-size: 100px;
+    margin-bottom: 0px;
+    margin-top: 10px;
+}
+
+h1 {
+    margin-top: 0;
+    font-size: 100px;
+    font-family: 'Delicious Handrawn', sans-serif;
+    color: #2C3639;
+    
+}
+
+h2 {
+    font-family: 'alkatra', serif;
+    font-size: 90px;
+    color: #2C3639;
+}
+
+h3 {
+    font-family: 'alkatra', serif;
+    font-size: 75px;
+    color: #2C3639;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+p {
+    margin-top: 10px;
+}
+
+.top-container {
+    background-color: #7c9e96;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+    background-color: #a6afad;
+    padding-bottom: 20px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+
+.bottom-container {
+    background-color: #7c9e96;
+    padding-top: 10px;
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+    height: 75px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 400px;
+    height: 75px;
+}
+
+.dreamwalker {
+    height: 400px;
+    margin-top: 45px;
+    
+}
+
+.mountain {
+    margin-bottom: 10px;
+    height: 500px;
+}
+
+.footer-link {
+    color: #D0C9C0;
+}
+
+.btn {
+    color: #D0C9C0;
+}
+
+.guitar {
+    height: 300px;
+    margin-top: 40px;
+}
+
+.artist {
+    height: 300px;
+}
+
+.developer {
+    height: 300px;
+    margin-top: 45px;
+}
+
+.skill {
+    margin-bottom: 40px;
+}
+
+.touch {
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.web3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+a {
+    text-decoration: none;
+    margin: 10px 25px;
+}
+
+
+.buttonClass {
+    font-size:28px;
+    font-family:Arial;
+    width:200px;
+    height:75px;
+    border-width:1px;
+    color:#757d6f;
+    border-color:#b2b8ad;
+    font-weight:bold;
+    border-top-left-radius:6px;
+    border-top-right-radius:6px;
+    border-bottom-left-radius:6px;
+    border-bottom-right-radius:6px;
+    box-shadow:inset 0px 0px 14px -3px #f2fadc;
+    text-shadow:inset 0px 1px 0px #ced9bf;
+    background:linear-gradient(#dbe6c4, #9ba892);
+  }
+  
+  .buttonClass:hover {
+    background: linear-gradient(#9ba892, #dbe6c4);
+  }
+                
